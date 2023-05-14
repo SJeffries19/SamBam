@@ -1,7 +1,0 @@
-﻿  Qqueue.cpp
-  main.cpp
-  Generating Code...
-C:\Users\Samuel\Desktop\CS3100 Files\CS3100-SamuelJeffries-Project3\CS3100-SamuelJeffries-Project3\Qqueue.cpp(97): warning C4715: 'Qqueue::getfront': not all control paths return a value
-C:\Users\Samuel\Desktop\CS3100 Files\CS3100-SamuelJeffries-Project3\CS3100-SamuelJeffries-Project3\Qqueue.cpp(111): warning C4715: 'Qqueue::getback': not all control paths return a value
-C:\Users\Samuel\Desktop\CS3100 Files\CS3100-SamuelJeffries-Project3\CS3100-SamuelJeffries-Project3\Qqueue.cpp(172): warning C4715: 'Qqueue::equals': not all control paths return a value
-  CS3100-SamuelJeffries-Project3.vcxproj -> C:\Users\Samuel\Desktop\CS3100 Files\CS3100-SamuelJeffries-Project3\Debug\CS3100-SamuelJeffries-Project3.exe
